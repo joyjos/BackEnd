@@ -2,4 +2,7 @@
 
 BackEnd de referencia para otros proyectos
 
-# Instalación
+### Instalación
+~~~
+npm install
+~~~
