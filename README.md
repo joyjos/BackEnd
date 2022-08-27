@@ -1,4 +1,4 @@
-## BackEnd with NodeJS, Express, MongoDB y JWT
+## BackEnd with NodeJS, Express, MongoDB and JWT
 
 BackEnd de referencia para otros proyectos
 
